@@ -266,7 +266,6 @@ td, th {
     nav {
       position: static;
     }
-  
     .lista-beneficios, .imagem-beneficios, .produtos, .produtos li, li img, form, .enviar, table {
       width: 97%;
       margin: 1.5% 1.5%;
